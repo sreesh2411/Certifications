@@ -38,14 +38,14 @@ Interactive skill-building in Python, SQL, and Git.
 
 ## Kaggle
 Practical applied learning in data science and machine learning techniques.
-* Intro to Machine Learning (Note: Title derived from visual content)
-* Feature Engineering (Note: Title derived from visual content)
-* Time Series (Note: Title derived from visual content)
+* Intro to Machine Learning 
+* Feature Engineering 
+* Time Series 
 * Data Cleaning
-* Data Visualization (Note: Title derived from visual content)
-* Pandas (Note: Title derived from visual content)
+* Data Visualization 
+* Pandas 
 * Python
-* Intro to SQL (Note: Title derived from visual content)
+* Intro to SQL 
 
 ## Forage Virtual Experiences
 Simulated real-world industry tasks.
@@ -56,8 +56,8 @@ Simulated real-world industry tasks.
 
 ## HackerRank
 Skill assessments in foundational programming.
-* Problem Solving (Basic) (Note: Title derived from visual content)
-* Python (Basic) (Note: Title derived from visual content)
+* Problem Solving (Basic) 
+* Python (Basic) 
 
 ## 🌐 Other Certifications & Achievements
 * **INCET 2022 Conference:** Paper Presentation - *A Compression Framework for Reducing Cost of Communication in a Federated Learning setup on a Non-IID Dataset*
