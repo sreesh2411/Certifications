@@ -4,7 +4,7 @@ This repository contains a collection of certifications that demonstrate profici
 
 Below is an overview of the certifications obtained from various educational platforms and organizations.
 
-## 🎓 365 Data Science
+## 365 Data Science
 Comprehensive training in data science and machine learning concepts.
 * **Data Scientist Career Track**
 * Convolutional Neural Networks with TensorFlow in Python
@@ -18,7 +18,7 @@ Comprehensive training in data science and machine learning concepts.
 * Statistics
 * SQL
 
-## 🏛️ Coursera
+## Coursera
 Specialized courses authorized by top universities and tech companies.
 * **Computer Vision Basics** - *University at Buffalo*
 * **Data Science Math Skills** - *Duke University*
@@ -27,7 +27,7 @@ Specialized courses authorized by top universities and tech companies.
 * **Google Cloud Platform Fundamentals: Core Infrastructure** - *Google Cloud*
 * **Getting Started with AWS Machine Learning** - *Amazon Web Services*
 
-## 💻 DataCamp
+## DataCamp
 Interactive skill-building in Python, SQL, and Git.
 * Introduction to Python
 * Data Manipulation with pandas
@@ -36,7 +36,7 @@ Interactive skill-building in Python, SQL, and Git.
 * Intermediate SQL Queries
 * SQL for Joining Data
 
-## 📊 Kaggle
+## Kaggle
 Practical applied learning in data science and machine learning techniques.
 * Intro to Machine Learning (Note: Title derived from visual content)
 * Feature Engineering (Note: Title derived from visual content)
@@ -47,14 +47,14 @@ Practical applied learning in data science and machine learning techniques.
 * Python
 * Intro to SQL (Note: Title derived from visual content)
 
-## 💼 Forage Virtual Experiences
+## Forage Virtual Experiences
 Simulated real-world industry tasks.
 * **Software Engineering Virtual Experience** - *JPMorgan Chase & Co.*
 * **Data Analytics Consulting Virtual Internship** - *KPMG*
 * **Data Analytics Virtual Experience Program** - *Quantium*
 * **Data@ANZ Program** - *ANZ*
 
-## 🏆 HackerRank
+## HackerRank
 Skill assessments in foundational programming.
 * Problem Solving (Basic) (Note: Title derived from visual content)
 * Python (Basic) (Note: Title derived from visual content)
